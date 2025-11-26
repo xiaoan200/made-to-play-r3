@@ -1,5 +1,5 @@
-v1.3
+v1.4
 
-加入prop隐藏
+加入有效密钥
 
-verifiedBootHash自定义默认不开启
+Ciallo～(∠・ω< )⌒★
